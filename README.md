@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboard](Screenshots/Screenshot 2026-02-04 213659.png)
+![Dashboard](Screenshots/dashboard.png)
 
 This project demonstrates an end-to-end data analytics workflow using Python for data processing and Power BI for visualization.
 
